@@ -1,4 +1,0 @@
-<br />
-<b>Warning</b>:  readfile() [<a href='function.readfile'>function.readfile</a>]: URL file-access is disabled in the server configuration in <b>/home/.callisto/sbertalo/mididelight/webserver/pages/save.php</b> on line <b>45</b><br />
-<br />
-<b>Warning</b>:  readfile(http://www.mididelight.com/midi_files/pop/early_winter.mid) [<a href='function.readfile'>function.readfile</a>]: failed to open stream: no suitable wrapper could be found in <b>/home/.callisto/sbertalo/mididelight/webserver/pages/save.php</b> on line <b>45</b><br />
